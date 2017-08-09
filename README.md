@@ -2,6 +2,8 @@
 
 Custom [hyperterm](https://hyper.is/) theme.
 
+![dlbr-hyper](https://github.com/daliborgogic/dlbr-hyper/assets/screenshoot.png)
+
 ## How to use
 
 Add `dlbr-hyper` to `plugins` in `~/.hyperterm.js`.
