@@ -2,7 +2,7 @@
 
 Custom [hyperterm](https://hyper.is/) theme.
 
-![dlbr-hyper](https://github.com/daliborgogic/dlbr-hyper/assets/screenshoot.png)
+![dlbr-hyper](https://github.com/daliborgogic/dlbr-hyper/blob/master/assets/screenshot.png)
 
 ## How to use
 
