@@ -1,0 +1,15 @@
+{
+   "name": "dlbr-hyper",
+   "description": "Custom theme for hyperterm",
+   "version": "1.0.0",
+   "author": "Dalibor Gogic <mail@daliborgogic.com>",
+   "keywords": ["hyperterm", "theme"],
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/daliborgogic/dlbr-hyper.git"
+    },
+    "bugs": {
+      "url": "https://github.com/daliborgogic/dlbr-hyper/issues"
+    },
+    "homepage": "https://github.com/daliborgogic/dlbr-hyper#readme"
+ }
